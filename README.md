@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tamaspalya
 - 👀 I’m interested in object-oriented programming
-- 🌱 I’m currently learning Java, SQL, and Project Management
+- 🌱 I’m currently learning C#, SQL, and Project Management
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
